@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ufg-map/static/css/main.7268639c.css",
+    "main.js": "/ufg-map/static/js/main.294335fa.js",
+    "static/media/placeholder.png": "/ufg-map/static/media/placeholder.0ebb2526e19062933a06.png",
+    "index.html": "/ufg-map/index.html",
+    "main.7268639c.css.map": "/ufg-map/static/css/main.7268639c.css.map",
+    "main.294335fa.js.map": "/ufg-map/static/js/main.294335fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7268639c.css",
+    "static/js/main.294335fa.js"
+  ]
+}
