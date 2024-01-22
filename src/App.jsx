@@ -31,8 +31,8 @@ const markers = [
   },
   {
     geocode: [-16.602657, -49.262832],
-    popUp: "Centro de Aulas"
-  }
+    popUp: "Centro de Aulas Aroreira"
+  } 
 ];
 
 export default function App() {
